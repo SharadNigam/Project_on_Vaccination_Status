@@ -5,7 +5,7 @@
 
 This project shows the current (as of 26.04.2023) vaccination status of Indian populace.
 The folder contains the following files:
-* Cleaned Dataset (_this is the data i cleaned and formed from the dataset file_)
+* Cleaned Dataset (_this is the data i cleaned and formed from the main dataset file_)
 * Dataset (_this is the dataset directly pulled from open sharing indian government website, here is the link for the site: https://www.mohfw.gov.in/  [P.S a special thanks to them! for hosting this updated data]_)
 
 <h3>METHODOLGOY/WORKFLOW</h3>
