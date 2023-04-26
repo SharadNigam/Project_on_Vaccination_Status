@@ -27,8 +27,8 @@ https://public.tableau.com/views/IndiaVaccinationStatusDataanalysis_168250648467
 
 
 There was a major issue which i faced here which was that eventhough everything was proper for some reason tableau was not plotting the values on the map of India. 
-This became frustrating very quickly as even after spending 4-5hrs finding why this was happening online and using all the suggestions and methods, none of them worked for me.
-But after doing lots of trials and errors (and i mean A LOT) i finally figured out the issue,
+This became frustrating very quickly as even after spending 4-5hrs trying to find why this was happening online and using all the suggestions and methods, none of them worked for me.
+But after doing lots of trial and errors (and i mean A LOT) i finally figured out the issue,
 
 
 **ISSUE :** Tableau does not understand your states data if it's not belonging to USA.
